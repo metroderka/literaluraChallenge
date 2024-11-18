@@ -35,6 +35,6 @@ __Dependencias para agregar al crear el proyecto en Spring Initializr:__
 
 ## Aspectos del proyecto:
 
-* Se deciddó por el uso de una sola Entidad/Modelo y su consiguiente tabla en la base de datos Postgres. 
+* Se decidió por el uso de una sola Entidad/Modelo y su consiguiente tabla en la base de datos Postgres. 
 * Se utilizaron variables de entorno para el acceso a base de datos
 * Se utiliza Optional para reemplazar los null por NA en autores desconocidos y por -1 en años de nacimiento y deceso faltantes.
